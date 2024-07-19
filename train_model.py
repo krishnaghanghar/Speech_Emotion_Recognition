@@ -17,8 +17,7 @@ def extract_features(file_path):
     mfccs_scaled = np.mean(mfccs.T, axis=0)
     return mfccs_scaled
 
-# Assuming Ravdess_df is your dataframe with 'Path' and 'Emotions' columns
-Ravdess_df = pd.read_csv('Ravdess.csv')  # Adjust the path as necessary
+Ravdess_df = pd.read_csv('Ravdess.csv')  
 features = []
 labels = []
 
