@@ -5,11 +5,9 @@ This project aims to develop a system capable of recognizing and analyzing emoti
 ## Dataset
 The dataset used for this project was obtained from [Kaggle](https://www.kaggle.com). It contained 4 most popular datasets in English: Crema, Ravdess, Savee and Tess. Each of them contains audio in .wav format with some main labels.
 
-## Project Overview
-1. Background Research
-2. Data Collection
-3. Methodology
-4. Expected Output
+## Data Processing and Augmentation
+To prepare the data for analysis, I performed the following steps:
+1. 
 
 ## Tools and Technologies
 - Programming Languages: Python
