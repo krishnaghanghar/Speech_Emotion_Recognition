@@ -11,7 +11,7 @@ The dataset used for this project was obtained from [Kaggle](https://www.kaggle.
 - Tools: Jupyter notebooks, Git
 - Visualization: Matplotlib, Seaborn, Plotly
 
-##Usage
+## Usage
 1. Data Preprocessing:
 
 -Convert raw audio files to log-mel spectrograms and average the values.
@@ -30,11 +30,11 @@ Evaluate the trained model on the test dataset and generate a classification rep
 
 Plot the training and validation accuracy and loss.
 
-##Results
+## Results
 -Initial model evaluation with a dummy classifier achieved 11.46% accuracy.
 -Decision tree classifier improved the accuracy to 31.25%.
 -The 1D CNN model trained for 20 epochs achieved an accuracy of 11.85% and a loss of 2.0676.
 -With 200 epochs, the 1D CNN model achieved a test accuracy of 51.74% and a loss of 1.4048.
 
-##Contributing
+## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request or open an issue.
